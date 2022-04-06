@@ -63,7 +63,7 @@ form button {
   font-size: 1.2rem;
 
   color: white;
-  background-color: blue;
+  background-color: rgb(183, 0, 255);
 
   transition: 200ms;
 }
